@@ -1,0 +1,34 @@
+C:\Users\Amantha\Desktop\Amantha\SA Assignment\SA Assignment\bin\Debug\SA Assignment.exe.config
+C:\Users\Amantha\Desktop\Amantha\SA Assignment\SA Assignment\bin\Debug\SA Assignment.exe
+C:\Users\Amantha\Desktop\Amantha\SA Assignment\SA Assignment\bin\Debug\SA Assignment.pdb
+C:\Users\Amantha\Desktop\Amantha\SA Assignment\SA Assignment\obj\Debug\SA Assignment.csproj.AssemblyReference.cache
+C:\Users\Amantha\Desktop\Amantha\SA Assignment\SA Assignment\obj\Debug\SA Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amantha\Desktop\Amantha\SA Assignment\SA Assignment\obj\Debug\SA_Assignment.Form1.resources
+C:\Users\Amantha\Desktop\Amantha\SA Assignment\SA Assignment\obj\Debug\SA_Assignment.Properties.Resources.resources
+C:\Users\Amantha\Desktop\Amantha\SA Assignment\SA Assignment\obj\Debug\SA Assignment.csproj.GenerateResource.cache
+C:\Users\Amantha\Desktop\Amantha\SA Assignment\SA Assignment\obj\Debug\SA Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Amantha\Desktop\Amantha\SA Assignment\SA Assignment\obj\Debug\SA Assignment.exe
+C:\Users\Amantha\Desktop\Amantha\SA Assignment\SA Assignment\obj\Debug\SA Assignment.pdb
+C:\Users\Amantha\Desktop\Amantha\SA Assignment\SA Assignment\obj\Debug\SA_Assignment.Start_Page.resources
+C:\Users\Amantha\Desktop\Amantha\SA Assignment\SA Assignment\obj\Debug\SA_Assignment.Circle_Page.resources
+C:\Users\Amantha\Desktop\Amantha\SA Assignment\SA Assignment\obj\Debug\SA_Assignment.Rectangle_Page.resources
+C:\Users\Amantha\Desktop\Amantha\SA Assignment\SA Assignment\obj\Debug\SA_Assignment.Square_Page.resources
+C:\Users\Amantha\Desktop\Amantha\SA Assignment\SA Assignment\obj\Debug\SA_Assignment.Triangle_Page.resources
+C:\Users\Amantha\Desktop\Amantha\SA Assignment\SA Assignment\obj\Debug\SA_Assignment.Time_Date.resources
+C:\Users\Amantha\Desktop\New folder\Amantha\SA Assignment\SA Assignment\bin\Debug\SA Assignment.exe.config
+C:\Users\Amantha\Desktop\New folder\Amantha\SA Assignment\SA Assignment\bin\Debug\SA Assignment.exe
+C:\Users\Amantha\Desktop\New folder\Amantha\SA Assignment\SA Assignment\bin\Debug\SA Assignment.pdb
+C:\Users\Amantha\Desktop\New folder\Amantha\SA Assignment\SA Assignment\obj\Debug\SA Assignment.csproj.AssemblyReference.cache
+C:\Users\Amantha\Desktop\New folder\Amantha\SA Assignment\SA Assignment\obj\Debug\SA Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amantha\Desktop\New folder\Amantha\SA Assignment\SA Assignment\obj\Debug\SA_Assignment.Circle_Page.resources
+C:\Users\Amantha\Desktop\New folder\Amantha\SA Assignment\SA Assignment\obj\Debug\SA_Assignment.Form1.resources
+C:\Users\Amantha\Desktop\New folder\Amantha\SA Assignment\SA Assignment\obj\Debug\SA_Assignment.Properties.Resources.resources
+C:\Users\Amantha\Desktop\New folder\Amantha\SA Assignment\SA Assignment\obj\Debug\SA_Assignment.Rectangle_Page.resources
+C:\Users\Amantha\Desktop\New folder\Amantha\SA Assignment\SA Assignment\obj\Debug\SA_Assignment.Square_Page.resources
+C:\Users\Amantha\Desktop\New folder\Amantha\SA Assignment\SA Assignment\obj\Debug\SA_Assignment.Start_Page.resources
+C:\Users\Amantha\Desktop\New folder\Amantha\SA Assignment\SA Assignment\obj\Debug\SA_Assignment.Time_Date.resources
+C:\Users\Amantha\Desktop\New folder\Amantha\SA Assignment\SA Assignment\obj\Debug\SA_Assignment.Triangle_Page.resources
+C:\Users\Amantha\Desktop\New folder\Amantha\SA Assignment\SA Assignment\obj\Debug\SA Assignment.csproj.GenerateResource.cache
+C:\Users\Amantha\Desktop\New folder\Amantha\SA Assignment\SA Assignment\obj\Debug\SA Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Amantha\Desktop\New folder\Amantha\SA Assignment\SA Assignment\obj\Debug\SA Assignment.exe
+C:\Users\Amantha\Desktop\New folder\Amantha\SA Assignment\SA Assignment\obj\Debug\SA Assignment.pdb
